@@ -1,0 +1,79 @@
+body {
+  font-family: Helvetica,serif;
+}
+
+ul {
+  float: left;
+  font-size: 85%;
+  list-style: none;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding-left: 0px;
+}
+
+#container{
+  width:  640px;
+  margin: 0 auto;
+  text-align: center;
+}
+#cron-container{
+  width:  680px;
+  margin: 0 auto;
+  text-align: center;
+}
+#navlinks li{
+  float: left;
+  padding: 0em 0.5em;
+}
+#content {
+  margin-top: 0 0;
+}
+.area{
+  float: left;
+  text-align: center;
+  margin-left: 10px;
+  margin-right: 5px;
+}
+.maplist {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.maplist li {
+  padding: 0 0 10px;
+}
+.heading{
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+.map-row-heading li {
+  float: left;
+  padding: 0em 05em;
+}
+ul.map-row, a img .map-row {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}
+.map-row li {
+  float: left;
+  padding: 0;
+}
+.map-image {
+}
+.map-table-info{
+  border: 1px;
+  border-style: solid;
+  margin-left: auto;
+  margin-right: auto;
+  width: 508px;
+  left-margin: auto;
+  right-margin: auto;
+}
+tr, td {
+  border: 1px;
+  border-style: solid;
+}
+.answer {
+  visibility: hidden;
+}
